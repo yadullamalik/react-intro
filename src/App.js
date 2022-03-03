@@ -9,7 +9,7 @@ function App() {
         li1="Andriod"
         li2="BlackBerry"
         li3="iphone"
-        li4="Windows phone"
+        li4="Window"
       />
       ,
       <Fun
